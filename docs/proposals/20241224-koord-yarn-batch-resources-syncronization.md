@@ -6,7 +6,7 @@
 
 ## **koordinator侧优化**
 
-![koord-yarn-1](../images/koord-yarn-1.png)
+![koord-yarn-1.png](../images/koord-yarn-1.png)
 
 ### **batch资源计算同步**
 
@@ -81,7 +81,7 @@ thirdPartyAllocation实例
 
 ## **Yarn模块优化**
 
-![koord-yarn-2](../images/koord-yarn-2.png)
+![koord-yarn-2.png](../images/koord-yarn-2.png)
 
 ### **yarn同步可用batch资源**
 
